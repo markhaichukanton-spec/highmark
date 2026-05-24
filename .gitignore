@@ -1,3 +1,11 @@
+﻿# Track only index.html for Netlify deployment
+src/
+versions/
+assets/
+docs/
+dist/
+HighMark.html
 template_extracted.html
-highmark_*.png
+*.png
 .playwright-mcp/
+CLAUDE.md
