@@ -1,4 +1,5 @@
 ﻿# Track only index.html for Netlify deployment
+photo/
 src/
 versions/
 assets/
